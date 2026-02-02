@@ -1,7 +1,3 @@
-# laboratorio-1
-"Infraestructura de microservicios con Docker, Portainer y Nginx Proxy Manager."
-
-
 # Laboratorio de Microservicios y Orquestación Ligera con Docker
 
 ## 🚀 Descripción del Proyecto
